@@ -1,0 +1,16 @@
+.table {
+  width: 100%;
+  text-align: center;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: brown;
+}
+
+.orange {
+  background-color: orange;
+}
